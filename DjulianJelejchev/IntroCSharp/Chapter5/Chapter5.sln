@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem2", "Problem2\Problem2.csproj", "{C570AEC5-DD09-40A6-8724-825051821145}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem3", "Problem3\Problem3.csproj", "{C9B05342-2DB2-4A54-B5A2-B34C9F1B166E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem1+", "Problem1+\Problem1+.csproj", "{49C36C1D-87CA-482F-937B-5C290D7FB9C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C570AEC5-DD09-40A6-8724-825051821145}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C570AEC5-DD09-40A6-8724-825051821145}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C570AEC5-DD09-40A6-8724-825051821145}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C570AEC5-DD09-40A6-8724-825051821145}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9B05342-2DB2-4A54-B5A2-B34C9F1B166E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9B05342-2DB2-4A54-B5A2-B34C9F1B166E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9B05342-2DB2-4A54-B5A2-B34C9F1B166E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9B05342-2DB2-4A54-B5A2-B34C9F1B166E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49C36C1D-87CA-482F-937B-5C290D7FB9C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49C36C1D-87CA-482F-937B-5C290D7FB9C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49C36C1D-87CA-482F-937B-5C290D7FB9C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49C36C1D-87CA-482F-937B-5C290D7FB9C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03E55224-2934-437F-B502-14118C881A19}
+	EndGlobalSection
+EndGlobal
